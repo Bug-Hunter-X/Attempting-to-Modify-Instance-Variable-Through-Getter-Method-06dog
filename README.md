@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in Ruby related to instance variables and getter methods. The code attempts to modify an instance variable through the getter method, which is not allowed. The solution provides a corrected version that uses a setter method.
